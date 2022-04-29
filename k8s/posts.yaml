@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: posts
-      image: djay/posts-service:0.0.1
+      image: djay/posts-service
